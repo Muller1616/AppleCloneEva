@@ -94,6 +94,58 @@ img {
 
 
 
+/* mac section style */
+
+.links ul li a:hover {
+  color: #000;
+}
+.links ul li a::after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+
+/* iophone section  */
+.iphone {
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.links{
+  font-size: 15px;
+}
+/* multiphone style */
+.multi-iphone {
+  background-image: url("../images/home/iphone11-bg.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+/* watch and apple card item */
+
+
+.watch-more-link a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 15px;
+}
+
+
+/* the airpad and tv show */
+.link-blue{
+  color: rgb(60, 112, 223) !important;
+}
+
+
 
 
 /*Media Query*/
