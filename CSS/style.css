@@ -92,8 +92,6 @@ img {
   color: #515154;
 }
 
-
-
 /* mac section style */
 
 .links ul li a:hover {
@@ -115,7 +113,7 @@ img {
   background-size: cover;
 }
 
-.links{
+.links {
   font-size: 15px;
 }
 /* multiphone style */
@@ -125,12 +123,9 @@ img {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 
-
 /* watch and apple card item */
-
 
 .watch-more-link a:after {
   font-family: "FontAwesome";
@@ -139,14 +134,10 @@ img {
   padding-left: 15px;
 }
 
-
 /* the airpad and tv show */
-.link-blue{
+.link-blue {
   color: rgb(60, 112, 223) !important;
 }
-
-
-
 
 /*Media Query*/
 /* Footer */
@@ -191,3 +182,5 @@ img {
     margin-top: 10px;
   }
 }
+
+/* I guess everything is done. and I have nothing to contribute */
